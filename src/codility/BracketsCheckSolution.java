@@ -7,7 +7,7 @@ public class BracketsCheckSolution {
 
 	public static void main(String[] args) {
 
-		Solution s = new Solution();
+		BracketsCheckSolution s = new BracketsCheckSolution();
 		
 		System.out.println(s.check("{[()]}"));
 		System.out.println(s.check("[(]"));
